@@ -16,7 +16,7 @@ Olá! Eu sou Mikael Vital.
   <img align="center" alt="Mika-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Mika-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mika-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-  <img align="right" alt="Mika-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/759281977047646258/959247751462404116/download20220304212748.png">
+  <img align="right" alt="Mika-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/759281977047646258/994741912227553442/361_Sem_Titulo_1.png">
 </div>
   
    ##
