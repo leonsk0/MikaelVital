@@ -1,6 +1,6 @@
 Olá! Eu sou Mikael Vital.
 - 🔭 Atualmente trabalho como UI e Front-End.
-- 🌱 Estudando Flutter e Node.
+- 🌱 Estudando Node.
 
 <div align="center">
   <a href="https://github.com/MikaelVital">
