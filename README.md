@@ -1,5 +1,6 @@
 Olá! Eu sou Mikael Vital.
-- 🔭 Atualmente trabalho como UI e Front-End.
+- 🔭 Atualmente trabalho como UI e Analista / Desenvolvedor Front-End.
+- 📖 Cursando Sistemas para Internet na Fatec Rubens Lara
 - 🌱 Estudando Node.
 
 <div align="center">
